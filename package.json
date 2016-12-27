@@ -1,0 +1,19 @@
+{
+  "name": "puckjs-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "pem": "^1.9.4"
+  },
+  "devDependencies": {
+    "livereload": "^0.6.0",
+    "nodemon": "^1.11.0"
+  }
+}

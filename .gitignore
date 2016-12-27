@@ -1,0 +1,16 @@
+### System ###
+*.DS_Store
+Thumbs.db
+
+### Node ###
+logs
+*.log
+npm-debug.log
+node_modules
+
+### Forever ###
+.config
+
+### Vim ###
+*.swp
+*.swo

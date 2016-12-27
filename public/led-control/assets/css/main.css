@@ -1,0 +1,28 @@
+body, html {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+.led {
+	display: inline-block;
+	width: 150px;
+	opacity: 0.3;
+	margin-top: 20%;
+}
+
+.led.active {
+	opacity: 1;
+}
+
+.led--red svg path {
+	fill: red;
+}
+
+.led--green svg path {
+	fill: green;
+}
+
+.led--blue svg path {
+	fill: blue;
+}
