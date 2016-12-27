@@ -1,3 +1,6 @@
+/**
+ * @see: https://github.com/alexgibson/shake.js
+ */
 var lastTime = new Date(),
 	lastX = null,
 	lastY = null,
